@@ -1,0 +1,50 @@
+.box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    color: #6091d3;/*文字色*/
+    background: #FFF;
+    border: solid 3px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
+}
+.box1 p {
+    margin: 0; 
+    padding: 0;
+}
+
+input {
+  padding: 10px;
+}
+.button {
+  background-color: #3cb1ff;
+  border: #da871b;
+  color: #fff;
+  border-radius: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+  }
+  th {
+    padding: 10px;
+    border: 1px solid #333;
+  }
+  td {
+    padding: 5px;
+    border: 1px solid #333;
+  }
+  th {
+    background-color: #2c88d9;
+    color: #FFF;
+  }
+
+  h3 {
+    text-align:center;
+    width:400px;
+    color: #364e96;/*文字色*/
+    border: solid 3px #364e96;/*線色*/
+    padding: 0.5em;/*文字周りの余白*/
+    border-radius: 0.5em;/*角丸*/
+  }
+
